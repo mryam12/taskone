@@ -1,2 +1,6 @@
 task :P
-first edit to my project
+<<<<<<< Updated upstream
+working on task 2 :P
+trying to understand 
+=======
+
